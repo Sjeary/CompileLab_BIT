@@ -1,2 +1,3 @@
 # CompileLab_BIT
-北京理工大学 编译原理实验
+Compiler lab
+Do not copy the code into cg directly, or you'll be considered a plagiarist.
